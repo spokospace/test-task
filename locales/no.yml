@@ -1,0 +1,13 @@
+button:
+  back: Tilbake
+  home: Hjem
+  toggle_dark: Bytt mørk modus
+  toggle_langs: Bytt språk
+  read-more-about: Les mer om
+not-found: Ikke funnet
+books:
+  magi:
+    title: Magi
+    subtitle: Oppdagende skrive- og leseopplæring
+    description: |-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin a lacus augue. Suspendisse vitae nulla ut felis scelerisque rutrum. Praesent egestas ex nulla. Maecenas tellus quam, aliquam nec commodo quis, pulvinar ut elit. Suspendisse potenti. Cras gravida ligula leo, eget porta dolor tristique ac. Duis ut lacinia dui, vel pulvinar odio. 

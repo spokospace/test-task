@@ -1,0 +1,15 @@
+button:
+  back: Back
+  home: Home
+  toggle_dark: Toggle dark mode
+  toggle_langs: Change languages
+  read-more-about: Les mer om
+not-found: Not found
+headings:
+  featured-products: Featured products
+books:
+  magi:
+    title: Magi
+    subtitle: Oppdagende skrive- og leseopplæring
+    description: |-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin a lacus augue. Suspendisse vitae nulla ut felis scelerisque rutrum. Praesent egestas ex nulla. Maecenas tellus quam, aliquam nec commodo quis, pulvinar ut elit. Suspendisse potenti. Cras gravida ligula leo, eget porta dolor tristique ac. Duis ut lacinia dui, vel pulvinar odio. 
