@@ -15,7 +15,7 @@ const { t } = useI18n()
       <source media="(max-width: 640px)" :srcset="`/images/${props.image}`">
       <source media="(min-width: 641px) and (max-width:1199px)" :srcset="`/images/thumbs/${props.image}`">
       <source media="(min-width: 1200px)" :srcset="`/images/${props.image}`">
-      <img :src="`/images/${props.image}`" :alt="props.title">
+      <img :src="`/images/${props.image}`" :alt="props.title" width="286" height="403" loading="lazy">
     </picture>
     <div>
       <h2 class="product-tile__title">
@@ -54,7 +54,7 @@ const { t } = useI18n()
   }
 
   &__cover {
-    @apply w-100 sm:w-200px lg:w-286px min-w-fit;
+    @apply w-100 sm:w-200px lg:w-286px min-w-fit aspect-[22/31];
     filter: drop-shadow(5px 5px 12px rgba(0, 0, 0, 0.2));
     margin-bottom: 2.188rem;
 
@@ -63,7 +63,7 @@ const { t } = useI18n()
     }
 
     img {
-      @apply w-full;
+      @apply w-full h-full object-cover;
     }
   }
 

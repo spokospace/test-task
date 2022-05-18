@@ -7,7 +7,7 @@ import { isDark } from '~/composables'
 useHead({
   title: 'Convert Test Task',
   meta: [
-    { name: 'description', content: 'Convert Test Task' },
+    { name: 'description', content: 'Responsive block for Featured products' },
     {
       name: 'theme-color',
       content: computed(() => isDark.value ? '#00aba9' : '#ffffff'),
