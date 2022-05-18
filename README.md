@@ -45,7 +45,7 @@
 
 ### UI Frameworks
 
-- [UnoCSS](https://github.com/antfu/unocss) - The instant on-demand atomic CSS engine.
+- [UnoCSS](https://github.com/antfu/unocss) - The instant on-demand atomic CSS engine. You can use classes from ACSS, Bootstrap, Chakra, Semantic UI, Tachyons, Tailwind, Twind or Windi CSS.
 
 ### Icons
 

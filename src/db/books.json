@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "slug": "magi",
+            "image": "magi.png"
+        },
+        {
+            "id": 2,
+            "slug": "magi",
+            "image": "magi.png"
+        },
+        {
+            "id": 3,
+            "slug": "magi",
+            "image": "magi.png"
+        },
+        {
+            "id": 4,
+            "slug": "magi",
+            "image": "magi.png"
+        }
+    ]
+}

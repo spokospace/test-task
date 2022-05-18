@@ -5,6 +5,8 @@ button:
   toggle_langs: Bytt språk
   read-more-about: Les mer om
 not-found: Ikke funnet
+headings:
+  featured-products: Utvalgte produkter
 books:
   magi:
     title: Magi
